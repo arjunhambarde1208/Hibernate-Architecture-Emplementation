@@ -1,1 +1,1 @@
-
+This Proof of Concept (POC) aims to demonstrate Hibernate's architecture and its key components in a Java-based application. Hibernate is a powerful Object-Relational Mapping (ORM) framework that simplifies database interactions by eliminating the need for manual SQL queries and JDBC operations. Through this POC, we will showcase how Hibernate manages database transactions efficiently using ORM principles.
